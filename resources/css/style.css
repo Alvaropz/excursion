@@ -24,6 +24,10 @@ nav p {
     color: gray;
 }
 
+a {
+    font-size: 15x;
+}
+
 /* Classes */
 
 .downExc {
